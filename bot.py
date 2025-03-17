@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 TOKEN = "YOUR_BOT_TOKEN"
 
 def start(update: Update, context: CallbackContext):
-    update.message.reply_text("Hello! I'm a simple bot. Type /help to see commands.")
+    update.message.reply_text("Hello! I'm a bot. Type /help to see commands.")
 
 def help_command(update: Update, context: CallbackContext):
     update.message.reply_text("Available commands:\n/start - Welcome message\n/help - Show this message")
