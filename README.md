@@ -1,6 +1,6 @@
 # **Telegram Chatbot**
 
-This is a simple Telegram chatbot built using `python-telegram-bot`.  
+This is a simple Telegram chatbot built using python-telegram-bot.  
 It responds to user messages with basic commands.
 
 ## Installation
