@@ -14,4 +14,4 @@ It responds to user messages with basic commands.
 # 📝 Available Commands
 * /start - Welcome message
 * /help - Shows available commands
-* Any text - Echoes the message
+* /Any text - Echoes the message
