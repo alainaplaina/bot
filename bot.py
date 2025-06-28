@@ -6,7 +6,7 @@ import pandas
 import os
 import Beautysoulp
 
-print("bot")
+print("botfahter")
 
 TOKEN = "YOUR_BOT_TOKEN"
 
